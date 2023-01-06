@@ -1,0 +1,18 @@
+.japan{
+  height: 150px;
+  width: 150px;
+  background-color: #BC002D;
+  border-radius: 150px;
+
+
+  margin: 40px 0 0 100px; /*the order is top right bottom and center BUT when want margin center order is top/bottom and right/left */
+}
+.japan1{
+  height: 150px;
+  width: 150px;
+  background-color: #BC002D;
+  border-radius: 150px;
+
+
+  margin:10px auto; /*the order is top right bottom and center BUT when want margin center order is top/bottom and right/left */
+}
